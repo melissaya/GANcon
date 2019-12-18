@@ -1,0 +1,9 @@
+build
+dist
+gancon.egg-info
+.DS_Store
+*/.DS_Store
+*/__pycache__
+test/*.rr
+*/*.pyc
+
